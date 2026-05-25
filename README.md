@@ -159,7 +159,7 @@ Mutual-fund-analytics-dashboard/
 
 **Naveen Koyyala**
 - **Target Roles:** Data Analyst, BI Analyst, MIS Analyst, Reporting Analyst, Financial Analytics Fresher
-- **Location:** Hyderabad, India
+- **Location:** India
 - **LinkedIn:** https://www.linkedin.com/in/naveen-koyyala/
 - **Email:** koyyalanaveen566@gmail.com
 - **GitHub:** https://github.com/Koyyalanaveen
